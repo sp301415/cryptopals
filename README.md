@@ -1,2 +1,3 @@
-# cryptopals
-My solutions for the cryptopals crypto challenges. Written in Python 3.
+# Cryptopals Crypto Challenges Solutions
+
+My solutions for the (cryptopals crypto challenges)[https://cryptopals.com]. Written in Python 3.
